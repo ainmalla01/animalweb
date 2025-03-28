@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ainmalla01/animalweb.git/static/css/main.e0109911.css",
-    "main.js": "/ainmalla01/animalweb.git/static/js/main.83d18c45.js",
-    "static/js/453.ed3810f9.chunk.js": "/ainmalla01/animalweb.git/static/js/453.ed3810f9.chunk.js",
-    "static/media/cat.jpg": "/ainmalla01/animalweb.git/static/media/cat.ad472a57e34ccf873ead.jpg",
-    "static/media/tiger.jpg": "/ainmalla01/animalweb.git/static/media/tiger.4e4c44f74c0a315d0ef4.jpg",
-    "index.html": "/ainmalla01/animalweb.git/index.html",
-    "main.e0109911.css.map": "/ainmalla01/animalweb.git/static/css/main.e0109911.css.map",
-    "main.83d18c45.js.map": "/ainmalla01/animalweb.git/static/js/main.83d18c45.js.map",
-    "453.ed3810f9.chunk.js.map": "/ainmalla01/animalweb.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/ainmalla01/animalweb/static/css/main.e0109911.css",
+    "main.js": "/ainmalla01/animalweb/static/js/main.2f700df9.js",
+    "static/js/453.ed3810f9.chunk.js": "/ainmalla01/animalweb/static/js/453.ed3810f9.chunk.js",
+    "static/media/cat.jpg": "/ainmalla01/animalweb/static/media/cat.ad472a57e34ccf873ead.jpg",
+    "static/media/tiger.jpg": "/ainmalla01/animalweb/static/media/tiger.4e4c44f74c0a315d0ef4.jpg",
+    "index.html": "/ainmalla01/animalweb/index.html",
+    "main.e0109911.css.map": "/ainmalla01/animalweb/static/css/main.e0109911.css.map",
+    "main.2f700df9.js.map": "/ainmalla01/animalweb/static/js/main.2f700df9.js.map",
+    "453.ed3810f9.chunk.js.map": "/ainmalla01/animalweb/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0109911.css",
-    "static/js/main.83d18c45.js"
+    "static/js/main.2f700df9.js"
   ]
 }
